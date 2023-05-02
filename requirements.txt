@@ -1,0 +1,5 @@
+Django==2.1.1
+gTTS==2.2.4
+playsound==1.2.2
+SpeechRecognition==3.8.1
+pipwin==0.5.2
